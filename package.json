@@ -1,0 +1,23 @@
+{
+  "name": "deploy-smart-contract-with",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landoyjx/deploy-smart-contract-with-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landoyjx/deploy-smart-contract-with-js/issues"
+  },
+  "homepage": "https://github.com/landoyjx/deploy-smart-contract-with-js#readme",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.2.11"
+  }
+}
